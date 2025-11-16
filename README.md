@@ -9,7 +9,9 @@
   I am a dedicated software developer with a solid background in both front-end and back-end technologies. I have a strong interest in building reliable, scalable, and user-centric applications. My work is driven by a commitment to continuous learning and improvement, allowing me to adapt quickly to new tools, frameworks, and industry best practices.
 
 •	🔭 I am currently developing a project C++, C#, Html and Css, with a focus on clean architecture and maintainability.
+
 •	🌱 I am expanding my knowledge in DevOps, cloud deployment, unit testing libraries, and software design architecture to enhance my technical expertise.
+
 •	📫 You can reach me at: **senghannoon@gmail.com**
 </p>
 
