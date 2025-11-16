@@ -49,7 +49,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SengHanNoon2005&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HtunAungKyaw73&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SengHanNoon2005&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
