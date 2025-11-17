@@ -34,13 +34,24 @@ Here are some of the technologies I work with:
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-  </a>
+  <br>
 
-  <br></p>
+  <strong>Frontend Tools:</strong><br>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3"/></a>
+  <br>
+  
+  <strong>DevOps & CI/CD:</strong><br>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+
+  <strong>Cybersecurity & Operating System:</strong><br>
+  <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/></a>
+ <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Metasploit-95091F?style=flat&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
+ <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VMware-607D8B?style=flat&logo=vmware&logoColor=white" alt="VMware"/></a>
+ <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=orange" alt="VirtualBox"/></a>
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
+</p>
 
   ---
 
